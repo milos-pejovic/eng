@@ -1,1 +1,57 @@
-eng
+==============================================================
+a or an
+=======
+key, box, phone, cellphone, teacher, architect, driver, developer, car, orange, apple, big apple, small orange, box, open box, keyboard, screen, hour, cup, glass, orange box, green apple, cook
+==============================================================
+a or an or / (same as first but add plural)
+===========================================
+orange, oranges, key, keys, teachers, teacher, green apples, orenge keys, phone, phones, new phones, cell phone
+==============================================================
+numbers (1-10)
+=======
+1 ____
+2 ____
+3
+4
+5
+6
+7
+8
+9
+==============================================================
+numbers (1-10)
+=======
+one _____
+seven _____
+three ____
+nine ____
+one_____
+....
+==============================================================
+numbers (1-10)
+=======
+1-2-3 one-two-three
+2-7-4 _______
+==============================================================
+numbers (1-10)
+=======
+minigame - numbers appear in letters, user clicks the number on keyboard
+drag-and-drop numbers
+
+==============================================================
+numbers (0 - 100) 
+=======
+
+
+
+==============================================================
+phonenumbers 
+============
+
+
+
+
+
+
+
+
