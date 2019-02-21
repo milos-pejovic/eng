@@ -2,38 +2,39 @@
 a or an
 =======
 key, box, phone, cellphone, teacher, architect, driver, developer, car, orange, apple, big apple, small orange, box, open box, keyboard, screen, hour, cup, glass, orange box, green apple, cook
+
 ==============================================================
 a or an or / (same as first but add plural)
 ===========================================
-orange, oranges, key, keys, teachers, teacher, green apples, orenge keys, phone, phones, new phones, cell phone
+orange, oranges, key, keys, teachers, teacher, green apples, orenge keys, phone, phones, new phones, cell phone, two chairs, one apple, two apples
+
 ==============================================================
-numbers (1-10)
+numbers (0-10)
 =======
 1 ____
 2 ____
-3
-4
-5
-6
-7
-8
-9
+3 ____
+...
+
 ==============================================================
-numbers (1-10)
+numbers (0-10)
 =======
 one _____
 seven _____
 three ____
 nine ____
-one_____
+one _____
+nine ____
 ....
+
 ==============================================================
-numbers (1-10)
+numbers (0-10)
 =======
 1-2-3 one-two-three
 2-7-4 _______
+
 ==============================================================
-numbers (1-10)
+numbers (0-10)
 =======
 minigame - numbers appear in letters, user clicks the number on keyboard
 drag-and-drop numbers
@@ -41,12 +42,76 @@ drag-and-drop numbers
 ==============================================================
 numbers (0 - 100) 
 =======
+same as 1 - 10 but more
 
+4 _____
+14 _____
+40 _____
 
+==============================================================
+numbers (0 - 100) with images
+=======
+
+an image of x objects, user types how many object there are
+
+==============================================================
+numbers (0 - 100) 
+=======
+
+14 - 20 __six__
+5 + 3 __eight__
+...
+
+==============================================================
+numbers (0 - 100) 
+=======
+write given numbers from smallest to highest or vice versa
+
+e.g.
+nine, seven, eleven, three
+three < seven < nine < eleven
+eleven > nine > seven > three
 
 ==============================================================
 phonenumbers 
+plus oh, double 7, double oh
 ============
+write phone numbers
+
+324-34-54 ____________ 
+
+==============================================================
+object pronouns
+===============
+
+Verbs
+like, love, dislike, can see, can hear, travel, work, live, hate (it), have (it)
+
+Peter likes _her_(Susan).
+John can see __him__ (Peter).
+Sam knows __me__ (I).
+They know __us__ (we).
+We can hear ...
+We can see ...
+You work with ...
+She lives with ...
+We travel to work with ...
+July loves ______ (Rob).
+July does not like _____ (wine).
+
+==============================================================
+object pronouns
+===============
+Rewrite sentences using personal pronouns instead of underlined words.
+
+_Mike_ knows _Peter_.
+_She_ likes _Peter, Sam and Susan_.
+...
+
+
+
+
+
 
 
 
