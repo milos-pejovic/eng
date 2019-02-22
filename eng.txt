@@ -11,9 +11,21 @@ orange, oranges, key, keys, teachers, teacher, green apples, orenge keys, phone,
 ==============================================================
 numbers (0-10)
 =======
-1 ____
-2 ____
+1 _one_
+2 _two_
 3 ____
+4
+5
+6
+7
+8
+9
+3
+7
+3
+2
+5
+7
 ...
 
 ==============================================================
@@ -36,13 +48,22 @@ numbers (0-10)
 ==============================================================
 numbers (0-10)
 =======
+1 + 2 = _three_
+9 - 4 = _five__
+seven + two = ______
+nine - 8 = ______
+three - two - one = ______
+
+==============================================================
+numbers (0-10)
+=======
 minigame - numbers appear in letters, user clicks the number on keyboard
 drag-and-drop numbers
 
 ==============================================================
 numbers (0 - 100) 
 =======
-same as 1 - 10 but more
+same as 1 - 10 but more numbers
 
 4 _____
 14 _____
@@ -105,8 +126,55 @@ object pronouns
 Rewrite sentences using personal pronouns instead of underlined words.
 
 _Mike_ knows _Peter_.
-_She_ likes _Peter, Sam and Susan_.
-...
+He knows him.
+
+_Ann_ likes _Sam and Susan_.
+Ann likes them.
+Ann likes them/ him and her.
+
+Peter knows me and my wife.
+He knows us.
+
+My sister and I like the Simpsons.
+We like them.
+
+Ann told Mike to call ____ (Ann).
+
+==============================================================
+family relations
+================
+husband, wife, mother, father, sister, brother, son, daughter, grandfather, grandmother, parents, grandparents, grandson, granddaughter, grandchildren, child, grandchild, kid, kids
+
+/Image of a family/
+Peter is Susan's ____...
+Ann and Sam and John and Mary's _____
+Peter has 2 _____ (sisters) and 1 ______ (brother)
+
+==============================================================
+family relations
+================
+
+I am my mother's _____ (son/daughter/child/kid)
+I am my daughter's ______ (mother/father/parent)
+I am my grandparents' ______ (grandson, granddaughter, grandchild)
+I am my granddaughter's __________ (grandmother, grandfather, grandparent)
+I am my parents' ______ (son/daughter/child/kid)
+I am my father's ________ (son/daughter/child/kid)
+
+My mother's father is my _______.
+My brother's mother is my ______.
+My father's father is my ______.
+My father is my daughter's ______.
+My mother is my son's ______.
+My son is my granparents' ______.
+My children are my grandaprents' ________.
+
+==============================================================
+family relations
+================
+
+
+
 
 
 
