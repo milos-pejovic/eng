@@ -1,3 +1,5 @@
+Printable English exercises for vocabulary, grammar, reading, writing and more for use while teaching or learning English.
+
 ==============================================================
 a or an
 =======
@@ -86,6 +88,13 @@ numbers (0 - 100)
 ==============================================================
 numbers (0 - 100) 
 =======
+
+fourteen plus twelve is _______.
+sixteen minus ______ is five.
+
+==============================================================
+numbers (0 - 100) 
+=======
 write given numbers from smallest to highest or vice versa
 
 e.g.
@@ -143,7 +152,7 @@ Ann told Mike to call ____ (Ann).
 ==============================================================
 family relations
 ================
-husband, wife, mother, father, sister, brother, son, daughter, grandfather, grandmother, parents, grandparents, grandson, granddaughter, grandchildren, child, grandchild, kid, kids
+husband, wife, mother, father, sister, brother, son, daughter, grandfather, grandmother, parents, grandparents, grandson, granddaughter, grandchildren, child, grandchild, kid, kids, sibling
 
 /Image of a family/
 Peter is Susan's ____...
@@ -160,6 +169,10 @@ I am my grandparents' ______ (grandson, granddaughter, grandchild)
 I am my granddaughter's __________ (grandmother, grandfather, grandparent)
 I am my parents' ______ (son/daughter/child/kid)
 I am my father's ________ (son/daughter/child/kid)
+I am my grandsons's __________ 
+I am my grandchildren's __________ 
+I am my grandchild's __________ 
+I am my kid's __________ 
 
 My mother's father is my _______.
 My brother's mother is my ______.
@@ -168,15 +181,28 @@ My father is my daughter's ______.
 My mother is my son's ______.
 My son is my granparents' ______.
 My children are my grandaprents' ________.
+My mother and father are my ________ .
+My grandmother and my grandfatehr are my ________ .
+My grandson and granddaughter are my ________ .
+My brother and sister are my ________ .
 
 ==============================================================
 family relations
 ================
 
+==============================================================
+present simple TO DO
+==============
+* 3ps singular vs other, only positive
 
+* I _____ (live) in London.
+* My best friend ______ (live) in London.
+* We ______ (work) in in shifts.
 
-
-
+==============================================================
+present simple TO DO
+==============
+* 3ps only, positive, negative, question
 
 
 
