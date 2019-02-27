@@ -1,4 +1,4 @@
-Printable English exercises for vocabulary, grammar, reading, writing and more for use while teaching or learning English.
+Printable English exercises in vocabulary, grammar, reading, writing and more for use while teaching or learning English.
 
 ==============================================================
 a or an
@@ -95,12 +95,19 @@ sixteen minus ______ is five.
 ==============================================================
 numbers (0 - 100) 
 =======
-write given numbers from smallest to highest or vice versa
+write given numbers from the smallest to the highest or vice versa
 
 e.g.
 nine, seven, eleven, three
 three < seven < nine < eleven
 eleven > nine > seven > three
+
+==============================================================
+numbers (0 - 6, 0 - 12)
+=======
+
+* images of dice/dominoes/cards, user write the number
+* Image of two dice, user adds the numbers
 
 ==============================================================
 phonenumbers 
@@ -182,13 +189,9 @@ My mother is my son's ______.
 My son is my granparents' ______.
 My children are my grandaprents' ________.
 My mother and father are my ________ .
-My grandmother and my grandfatehr are my ________ .
+My grandmother and my grandfather are my ________ .
 My grandson and granddaughter are my ________ .
 My brother and sister are my ________ .
-
-==============================================================
-family relations
-================
 
 ==============================================================
 present simple TO DO
@@ -214,3 +217,66 @@ present simple TO DO
 
 
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+	
+	* {
+		font-family: "Times new roman";
+	}
+	
+	.outer-wrap {
+		width: 100%;
+		_background-color: green;
+	}
+	
+	.wrap {
+		margin: auto;
+		border: 1px solid black;
+		border-radius: 8px;
+		padding: 10px;
+		overflow: hidden;
+		width: 70%;
+	}
+	
+	span {
+		display: inline-block;
+		margin: 2px 20px;
+		_width: 65px;
+		float: left;
+	}
+	
+	span:nth-child(2n + 6) {
+		color: rgb(212, 212, 212);
+	}
+	
+	input {
+		border: none;
+		border-bottom: 1px solid black;
+		font-style: italic;
+		text-align: center;
+	}
+	
+</style>
+
+</head>
+
+<body>
+	<div class="outer-wrap">
+		<div class="wrap">
+			<span>Lorem</span><span>ipsum</span><span>dolor</span><span>sit</span><span>amet,</span><span>consectetur</span><span>adipiscing</span><span>elit.</span><span>Nulla</span><span>porttitor</span><span>posuere</span><span>magna</span><span>accumsan</span><span>sollicitudin</span><span>Lorem</span><span>ipsum</span><span>dolor</span><span>sit</span><span>amet,</span><span>consectetur</span><span>adipiscing</span><span>elit.</span><span>Nulla</span><span>porttitor</span><span>posuere</span><span>magna</span><span>a</span><span>sollicitudin sollicitudin sollicitudin sollicitudin</span>
+		</div>
+	</div>
+	
+
+	<br /><br />
+	
+	<div>
+	This time next month I <input type="text" /> on this project for a year.
+	</div>
+	
+</body>
+</html>
