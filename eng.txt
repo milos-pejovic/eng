@@ -207,10 +207,22 @@ present simple TO DO
 ==============
 * 3ps only, positive, negative, question
 
+==============================================================
+rooms, furniture
+================
+Where can we usually see these things?
 
+shower 	__bathroom__
+fridge 	__kitchen/dining_room__
+TV 			__living room/bedroom__
+sofa    __living room/bedroom__
 
+armchair, chair, painting, curtains, window, carpet, bookshelves, table, dining table, sink, cupboard, computer, toilet, washing mashine, dishwasher, lamp, closet
 
-
+==============================================================
+furniture vs appliance
+======================
+drag and drop word to the correct category, furniture vs appliance
 
 
 
