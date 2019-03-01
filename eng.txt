@@ -1,5 +1,8 @@
 Printable English exercises in vocabulary, grammar, reading, writing and more for use while teaching or learning English.
 
+COMMON 
+business, grammar, vocabulary, functional language, reading, writing, printable, interactive
+
 ==============================================================
 a or an
 =======
@@ -181,6 +184,15 @@ I am my grandchildren's __________
 I am my grandchild's __________ 
 I am my kid's __________ 
 
+
+Jessica has (one/two) ______ grandchildren.
+Ian has (one/two) ______ child.
+John has (one/two) _______ kids.
+Ann has (one/two) ______ children.
+Susan has (one/two) ______ grandchild.
+Peter has (one/two) ______ kid.
+
+
 My mother's father is my _______.
 My brother's mother is my ______.
 My father's father is my ______.
@@ -223,6 +235,37 @@ armchair, chair, painting, curtains, window, carpet, bookshelves, table, dining 
 furniture vs appliance
 ======================
 drag and drop word to the correct category, furniture vs appliance
+
+
+==============================================================
+vocabulary
+==========
+* Slika, user napise sta je na slici
+
+fridge, cooker, sofa, television, desk, table, chair, armchair, cupboard, cup, glass, drawer
+
+ball, car, bus, key, pen
+
+pen, pencil, paperclip, computer, cellphone, permanent marker, sticky labels, Post-it Note, whiteboard marker, thumbtack, file (fascikla), calculator, stapler
+
+screen, keyboard, printer, tower, laptop, desktop, earphones, router, speakers, cable, usb port, usb flash drive, cell phone, smartphone, tablet, charger, calculator
+
+policeman, architect, painter, teacher, developer, driver, pilot, bank clerk, economist, engineer, pianist, manager, psychologist, psychotherapist, doctor, dentist, cook, repairman, postman, 
+
+office, door, window, wall, floor, carpet, curtains, ceiling, elevator, escalator, vending mashine, water dispenser, ID card, airconditioning, flipchart, whiteboard, corkboard
+
+==============================================================
+vocabulary - professions
+==========
+
+_________ works in a hospital
+_________ works in a school
+
+==============================================================
+past tense
+==========
+
+
 
 
 
