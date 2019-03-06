@@ -1,4 +1,4 @@
-Printable English exercises in vocabulary, grammar, reading, writing and more for use while teaching or learning English.
+Printable and interactive English exercises in vocabulary, grammar, reading, writing and more for use while teaching or learning English.
 
 COMMON 
 business, grammar, vocabulary, functional language, reading, writing, printable, interactive
@@ -191,6 +191,9 @@ John has (one/two) _______ kids.
 Ann has (one/two) ______ children.
 Susan has (one/two) ______ grandchild.
 Peter has (one/two) ______ kid.
+Peter has (one/two) ______ parents.
+Peter has (one/two) ______ grandsons.
+Peter has (one/two) ______ granddaughter.
 
 
 My mother's father is my _______.
@@ -250,7 +253,7 @@ pen, pencil, paperclip, computer, cellphone, permanent marker, sticky labels, Po
 
 screen, keyboard, printer, tower, laptop, desktop, earphones, router, speakers, cable, usb port, usb flash drive, cell phone, smartphone, tablet, charger, calculator
 
-policeman, architect, painter, teacher, developer, driver, pilot, bank clerk, economist, engineer, pianist, manager, psychologist, psychotherapist, doctor, dentist, cook, repairman, postman, 
+policeman, architect, painter, teacher, developer, driver, pilot, bank clerk, economist, engineer, pianist, manager, psychologist, psychotherapist, doctor, dentist, cook, repairman, postman, waiter, actor, actress, waitress, chef, cook, director
 
 office, door, window, wall, floor, carpet, curtains, ceiling, elevator, escalator, vending mashine, water dispenser, ID card, airconditioning, flipchart, whiteboard, corkboard
 
@@ -260,10 +263,46 @@ vocabulary - professions
 
 _________ works in a hospital
 _________ works in a school
+_________ works in a police station
+_________ works in a bank
+_________ works in a restaurant
+_________ works in a theatre
+
+
+
+________ makes paintings
+________ plays the piano
+________ makes food in restaurants
+________ directs movies
+________ fixes furniture and appliances?
+________ fights crime
+________ teaches classes
 
 ==============================================================
 past tense
 ==========
+
+
+
+
+
+==============================================================
+texts
+=====
+
+
+I have ____ brother and ___ two sisters.
+I am ____ teacher.
+My parents are _____ engineers, but I am not ____ engineer.
+There is _____ lamp on ____ my table. ______ lamp is white and _____ table is brown.
+She plays ____ piano.
+
+My room.
+...
+
+My office.
+My office is on ___ third floor of ___ old building in ___ suburbs. It is ____ small room with __ window. There is ____ desk, ____ chair, ____ two plants and _____ water dispenser. Next to _______ water dispenser is _____ calendar.
+
 
 
 
