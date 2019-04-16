@@ -149,7 +149,7 @@ He knows him.
 
 _Ann_ likes _Sam and Susan_.
 Ann likes them.
-Ann likes them/ him and her.
+Ann likes him and her.
 
 Peter knows me and my wife.
 He knows us.
@@ -239,6 +239,15 @@ furniture vs appliance
 ======================
 drag and drop word to the correct category, furniture vs appliance
 
+==============================================================
+directions (A2)
+===============
+
+* Drawn map of a city with streets and buildings
+* bank, zoo, school, museum, cinema, shopping mall, post office, park, hospital, hotel, 
+* A starting point is marked (an "X")
+* Insrtuctions are given (Go down X street. Turn left into Y street).
+* Student needs to follow the instructions and write down the destination.
 
 ==============================================================
 vocabulary
